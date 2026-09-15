@@ -1,0 +1,11 @@
+{
+  "slug": "rpc-v1-canary",
+  "name": "RPC V1 Canary",
+  "kind": "tooling",
+  "description": "Generate RPC compatibility probes for reading version-1 transactions and blocks.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
