@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "rpc-v1-canary"
+abstract: "Generate RPC compatibility probes for reading version-1 transactions and blocks."
+repository-code: "https://github.com/nirholas/rpc-v1-canary"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

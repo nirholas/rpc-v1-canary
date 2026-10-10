@@ -1,5 +1,10 @@
 # RPC V1 Canary
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/rpc-v1-canary?style=flat&logo=github)](https://github.com/nirholas/rpc-v1-canary/stargazers) [![Last commit](https://img.shields.io/github/last-commit/nirholas/rpc-v1-canary?style=flat)](https://github.com/nirholas/rpc-v1-canary/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/rpc-v1-canary/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/rpc-v1-canary/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 Generate RPC compatibility probes for reading version-1 transactions and blocks.
 
 ## Why this exists
@@ -47,3 +52,26 @@ MIT
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/rpc-v1-canary&type=Date)](https://www.star-history.com/#nirholas/rpc-v1-canary&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If rpc-v1-canary saves you time, **[star it on GitHub](https://github.com/nirholas/rpc-v1-canary)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=rpc-v1-canary%3A%20Generate%20RPC%20compatibility%20probes%20for%20reading%20version-1%20transactions%20and%20blocks&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Frpc-v1-canary) · [Share on Bluesky](https://bsky.app/intent/compose?text=rpc-v1-canary%3A%20Generate%20RPC%20compatibility%20probes%20for%20reading%20version-1%20transactions%20and%20blocks%20https%3A%2F%2Fgithub.com%2Fnirholas%2Frpc-v1-canary) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Frpc-v1-canary) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Frpc-v1-canary&t=rpc-v1-canary%3A%20Generate%20RPC%20compatibility%20probes%20for%20reading%20version-1%20transactions%20and%20blocks) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Frpc-v1-canary&title=rpc-v1-canary%3A%20Generate%20RPC%20compatibility%20probes%20for%20reading%20version-1%20transactions%20and%20blocks)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/rpc-v1-canary` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/rpc-v1-canary/issues) or [start a discussion](https://github.com/nirholas/rpc-v1-canary/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/rpc-v1-canary)](https://github.com/nirholas/rpc-v1-canary/graphs/contributors)
+
+<!-- /three.ws:growth -->
