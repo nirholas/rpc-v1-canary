@@ -8,7 +8,7 @@ Generate RPC compatibility probes for reading version-1 transactions and blocks.
 
 - Source: https://github.com/nirholas/rpc-v1-canary
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
